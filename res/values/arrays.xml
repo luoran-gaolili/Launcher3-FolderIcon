@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Add BUG_ID:DWYSBM-79 zhaopenglin 20160602(start)-->
+    <string-array name="weeks_array">
+	    <item>Sunday</item>
+	    <item>Monday</item>
+	    <item>Tuesday</item>
+	    <item>Wednesday</item>
+	    <item>Thursday</item>
+	    <item>Friday</item>
+	    <item>Saturday</item>
+    </string-array>
+    <!--Add BUG_ID:DWYSBM-79 zhaopenglin 20160602(end) -->
+	<string-array name="hide_apps_arraylist">
+    <!--add packagename of the hide app in the overlay,this array must be empty-->
+		<item>com.android.inputmethod.latin</item>
+    </string-array>
+	
+	 <string-array name = "no_need_maskicon" >
+        <!--add packagename for no need maskicon-->
+    </string-array>
+</resources>
